@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Reading Questions
 uid: 84a64a67-731d-48eb-00ac-dee4907231ff
 ---
