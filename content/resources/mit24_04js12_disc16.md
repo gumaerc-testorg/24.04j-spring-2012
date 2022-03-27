@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Reading Questions
 parent_type: CourseSection
+parent_uid: 84a64a67-731d-48eb-00ac-dee4907231ff
 resourcetype: Document
 title: 'Lecture 16 Discussion Questions: Markets & Moral Desert'
 uid: d3101e33-a54d-9811-f55c-f40e5806a81b

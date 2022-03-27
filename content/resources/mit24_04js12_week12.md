@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 35759487-c850-9269-b9e3-c2e20156cc96
 resourcetype: Document
 title: Week 12 - Why Do We Have An Obligation To Obey The Law?
 uid: 886b1a6c-5d2b-12e1-13a5-cc8d09162b90

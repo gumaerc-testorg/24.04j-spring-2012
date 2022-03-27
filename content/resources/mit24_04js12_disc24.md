@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Reading Questions
 parent_type: CourseSection
+parent_uid: 84a64a67-731d-48eb-00ac-dee4907231ff
 resourcetype: Document
 title: 'Lecture 24 Discussion Questions: Justice & the Global Poor'
 uid: f2bbac56-04de-77fa-2600-ec62f6f3303b

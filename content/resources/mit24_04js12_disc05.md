@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Reading Questions
 parent_type: CourseSection
+parent_uid: 84a64a67-731d-48eb-00ac-dee4907231ff
 resourcetype: Document
 title: 'Lecture 5 Discussion Questions: The Harm Principle'
 uid: d433ea14-526f-bf9f-6d47-df02da3d3197

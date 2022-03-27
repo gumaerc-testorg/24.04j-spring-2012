@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 35759487-c850-9269-b9e3-c2e20156cc96
 resourcetype: Document
 title: Week 5 - Nozick on Redistribution and Just Holdings
 uid: 546b02d9-9988-1082-8750-6607676ce9f7

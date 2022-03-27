@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Reading Questions
 parent_type: CourseSection
+parent_uid: 84a64a67-731d-48eb-00ac-dee4907231ff
 resourcetype: Document
 title: 'Lecture 4 Discussion Questions: Revisionist Utilitarianism'
 uid: 2f7f25fd-3ee1-4c95-cb57-8fb0ea1bd12c

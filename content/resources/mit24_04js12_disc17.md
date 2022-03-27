@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Reading Questions
 parent_type: CourseSection
+parent_uid: 84a64a67-731d-48eb-00ac-dee4907231ff
 resourcetype: Document
 title: 'Lecture 17 Discussion Questions: Equal Opportunity & Effort'
 uid: 8545ddc3-73ad-aa4b-b777-5c7d292be4db

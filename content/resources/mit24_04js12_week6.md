@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 35759487-c850-9269-b9e3-c2e20156cc96
 resourcetype: Document
 title: Week 6 - Nozick's Negative and Positive Arguments
 uid: 90bcb7f9-eb68-00fe-d8e4-d602c251856d

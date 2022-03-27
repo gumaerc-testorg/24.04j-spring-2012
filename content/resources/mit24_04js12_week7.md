@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 35759487-c850-9269-b9e3-c2e20156cc96
 resourcetype: Document
 title: Week 7 - Motivations for Egalitarian Liberalism / Rawls' Principles / Veil
   of Ignorance

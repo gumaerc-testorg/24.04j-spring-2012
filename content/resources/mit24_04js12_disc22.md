@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Reading Questions
 parent_type: CourseSection
+parent_uid: 84a64a67-731d-48eb-00ac-dee4907231ff
 resourcetype: Document
 title: 'Lecture 22 Discussion Questions: Justice & Reciprocity'
 uid: 843804fa-b78f-3476-952d-9f0845f9c096

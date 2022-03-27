@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 35759487-c850-9269-b9e3-c2e20156cc96
 resourcetype: Document
 title: Week 8 - Equality of Opportunity / Rawls' Difference Principle
 uid: e8e5d2a9-b96a-0677-6a58-03dc4dc8bc3e

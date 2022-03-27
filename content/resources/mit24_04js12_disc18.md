@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Reading Questions
 parent_type: CourseSection
+parent_uid: 84a64a67-731d-48eb-00ac-dee4907231ff
 resourcetype: Document
 title: 'Lecture 18 Discussion Questions: Justice & the Family'
 uid: 210e49ce-fa1a-f75e-ec37-63446c25e1b5

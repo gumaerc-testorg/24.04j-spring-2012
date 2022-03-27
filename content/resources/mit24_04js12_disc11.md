@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Reading Questions
 parent_type: CourseSection
+parent_uid: 84a64a67-731d-48eb-00ac-dee4907231ff
 resourcetype: Document
 title: 'Lecture 11 Discussion Questions: The Entitlement Theory'
 uid: 43fe5a1e-296e-548c-ea0a-51f70063f95e

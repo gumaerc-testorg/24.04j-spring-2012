@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Reading Questions
 parent_type: CourseSection
+parent_uid: 84a64a67-731d-48eb-00ac-dee4907231ff
 resourcetype: Document
 title: 'Lecture 8 Discussion Questions: The Utility of Democracy'
 uid: f0503cb2-58bc-a205-dab9-ba1ee960a634

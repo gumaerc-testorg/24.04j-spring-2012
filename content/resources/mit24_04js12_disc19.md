@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Reading Questions
 parent_type: CourseSection
+parent_uid: 84a64a67-731d-48eb-00ac-dee4907231ff
 resourcetype: Document
 title: 'Lecture 19 Discussion Questions: Justice & the Social Ethos'
 uid: eb97878c-2184-de8d-874a-3953b2456b05

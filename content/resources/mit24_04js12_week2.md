@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 35759487-c850-9269-b9e3-c2e20156cc96
 resourcetype: Document
 title: Week 2 - Assessing and Reconstructing Arguments
 uid: f22d6263-f11f-3ad4-7e68-efa2d02427be

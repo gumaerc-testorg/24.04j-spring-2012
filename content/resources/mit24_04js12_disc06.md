@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Reading Questions
 parent_type: CourseSection
+parent_uid: 84a64a67-731d-48eb-00ac-dee4907231ff
 resourcetype: Document
 title: 'Lecture 6 Discussion Questions: The Utility of Speech'
 uid: c5976a1d-5ce3-dbd1-8783-eec6bab5645a

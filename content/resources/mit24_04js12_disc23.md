@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Reading Questions
 parent_type: CourseSection
+parent_uid: 84a64a67-731d-48eb-00ac-dee4907231ff
 resourcetype: Document
 title: 'Lecture 23 Discussion Questions: Justice & the Ghetto Poor'
 uid: 5c250eac-d2e4-9adf-c9dd-d3dc0cf117c6

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Reading Questions
 parent_type: CourseSection
+parent_uid: 84a64a67-731d-48eb-00ac-dee4907231ff
 resourcetype: Document
 title: 'Lecture 2 Discussion Questions: Classical Utilitarianism'
 uid: 7c845b63-dd9b-1db2-30d9-afd9a8d31fec

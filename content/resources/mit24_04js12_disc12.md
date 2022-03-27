@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Reading Questions
 parent_type: CourseSection
+parent_uid: 84a64a67-731d-48eb-00ac-dee4907231ff
 resourcetype: Document
 title: 'Lecture 12 Discussion Questions: Justice in Acquisition'
 uid: f2cd1c51-31ef-43ed-f15d-ae4be9df722b

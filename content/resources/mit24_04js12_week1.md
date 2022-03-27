@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 35759487-c850-9269-b9e3-c2e20156cc96
 resourcetype: Document
 title: Week 1 - Procedural Stuff / Utilitarianism
 uid: 1353a3d6-382a-f1d3-e188-b88ec7f4d6a9
