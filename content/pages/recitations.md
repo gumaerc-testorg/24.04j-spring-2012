@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides handouts for selected recitation sessions.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
@@ -27,7 +28,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Procedural Stuff / Utilitarianism (PDF)]({{< baseurl >}}/resources/mit24_04js12_week1)
+{{% resource_link 1353a3d6-382a-f1d3-e188-b88ec7f4d6a9 "Procedural Stuff / Utilitarianism (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +37,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Assessing and Reconstructing Arguments (PDF)]({{< baseurl >}}/resources/mit24_04js12_week2)
+{{% resource_link f22d6263-f11f-3ad4-7e68-efa2d02427be "Assessing and Reconstructing Arguments (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +46,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Final Paper Tips (PDF)]({{< baseurl >}}/resources/mit24_04js12_week3)
+{{% resource_link 25d85c10-91d5-6520-951c-faf0a3147963 "Final Paper Tips (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +55,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Nozick's Objection to Utilitarianism / Nozick's Positive View (PDF)]({{< baseurl >}}/resources/mit24_04js12_week4)
+{{% resource_link 4be2dfa3-2a31-2d36-e2fb-a0a03a5a2418 "Nozick's Objection to Utilitarianism / Nozick's Positive View (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +64,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Nozick on Redistribution and Just Holdings (PDF)]({{< baseurl >}}/resources/mit24_04js12_week5)
+{{% resource_link 546b02d9-9988-1082-8750-6607676ce9f7 "Nozick on Redistribution and Just Holdings (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +73,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Nozick's Negative Argument Against Extensive Redistribution / Nozick's Positive Argument / Possible Objections (PDF)]({{< baseurl >}}/resources/mit24_04js12_week6)
+{{% resource_link 90bcb7f9-eb68-00fe-d8e4-d602c251856d "Nozick's Negative Argument Against Extensive Redistribution / Nozick's Positive Argument / Possible Objections (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +82,7 @@ TOPICS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Some Motivations for Egalitarian Liberalism / Rawls' Two Principles / The Original Position and the Veil of Ignorance (PDF)]({{< baseurl >}}/resources/mit24_04js12_week7)
+{{% resource_link a9a9ee8d-9442-62bb-36e4-2220ba20c946 "Some Motivations for Egalitarian Liberalism / Rawls' Two Principles / The Original Position and the Veil of Ignorance (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +91,7 @@ TOPICS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Equality of Opportunity / Rawls' Difference Principle (PDF)]({{< baseurl >}}/resources/mit24_04js12_week8)
+{{% resource_link e8e5d2a9-b96a-0677-6a58-03dc4dc8bc3e "Equality of Opportunity / Rawls' Difference Principle (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +100,7 @@ TOPICS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Justice and Private Life (PDF)]({{< baseurl >}}/resources/mit24_04js12_week9)
+{{% resource_link b16332fe-40e3-b201-b81b-35868c54a6ee "Justice and Private Life (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +109,7 @@ TOPICS
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Free Speech (PDF)]({{< baseurl >}}/resources/mit24_04js12_week10)
+{{% resource_link 85632ccf-0e06-b2b0-14d8-544b7299cc7c "Free Speech (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +118,7 @@ TOPICS
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[Basic Income & Justice (PDF)]({{< baseurl >}}/resources/mit24_04js12_week11)
+{{% resource_link 576c6d84-e640-4aa3-1091-ea5621ab46bb "Basic Income & Justice (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +127,7 @@ TOPICS
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Why Do We Have An Obligation To Obey The Law? (PDF)]({{< baseurl >}}/resources/mit24_04js12_week12)
+{{% resource_link 886b1a6c-5d2b-12e1-13a5-cc8d09162b90 "Why Do We Have An Obligation To Obey The Law? (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
