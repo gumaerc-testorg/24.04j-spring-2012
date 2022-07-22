@@ -5,6 +5,7 @@ file: /courses/24-04j-justice-spring-2012/4fe02941b424cf581985d8049283bcc8_MIT24
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Quiz 3 Questions
 uid: 4fe02941-b424-cf58-1985-d8049283bcc8
 ---
 This resource contains information about quiz 3.
-

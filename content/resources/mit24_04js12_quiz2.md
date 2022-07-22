@@ -5,6 +5,7 @@ file: /courses/24-04j-justice-spring-2012/e120fda66710289805dd38016f59302c_MIT24
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Quiz 2 Questions
 uid: e120fda6-6710-2898-05dd-38016f59302c
 ---
 This resource contains information about quiz 2.
-

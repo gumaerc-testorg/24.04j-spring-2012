@@ -5,6 +5,7 @@ file: /courses/24-04j-justice-spring-2012/576c6d84e6404aa31091ea5621ab46bb_MIT24
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Week 11 - Basic Income & Justice
 uid: 576c6d84-e640-4aa3-1091-ea5621ab46bb
 ---
 This resource contains information about basic income & justice.
-

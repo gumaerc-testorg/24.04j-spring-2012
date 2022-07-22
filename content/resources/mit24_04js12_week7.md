@@ -6,6 +6,7 @@ file: /courses/24-04j-justice-spring-2012/a9a9ee8d944262bb36e42220ba20c946_MIT24
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Week 7 - Motivations for Egalitarian Liberalism / Rawls' Principles / Vei
 uid: a9a9ee8d-9442-62bb-36e4-2220ba20c946
 ---
 This resource contains information about motivations for egalitarian liberalism/rawls' principles/veil of ignorance.
-

@@ -5,6 +5,7 @@ file: /courses/24-04j-justice-spring-2012/a056c8c3b20dc19a4b38197c891285a9_MIT24
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Paper 1 Topics
 uid: a056c8c3-b20d-c19a-4b38-197c891285a9
 ---
 This resource contains information about paper 1 topics.
-

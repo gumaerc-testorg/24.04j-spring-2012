@@ -5,6 +5,7 @@ file: /courses/24-04j-justice-spring-2012/e051116e206a6e7145abd3775e879b57_MIT24
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Paper 3 Topics
 uid: e051116e-206a-6e71-45ab-d3775e879b57
 ---
 This resource contains information about paper 3 topic.
-

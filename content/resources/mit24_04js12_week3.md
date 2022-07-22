@@ -5,6 +5,7 @@ file: /courses/24-04j-justice-spring-2012/25d85c1091d56520951cfaf0a3147963_MIT24
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Week 3 - Final Paper Tips
 uid: 25d85c10-91d5-6520-951c-faf0a3147963
 ---
 This resource contains information about final paper tips.
-
