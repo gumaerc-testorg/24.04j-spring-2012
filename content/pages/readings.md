@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the reading assignments for each session of the
+  course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 649a5cac-1da4-6cb8-6b4d-1e50c834ccd6
 ---
@@ -56,7 +61,7 @@ Burns, J. H., and H. L. A. Hart, eds. "Of the Principle of Utility." Chapter 1 i
 
 ———. "Of the Limits of the Penal Branch of Jurisprudence." Section 1 of Chapter 17 in _An Introduction to the Principles of Morals and Legislation: The Collected Works of Jeremy Bentham_. Oxford University Press, 1996. ISBN: 9780198205166.
 
-[See Reading Questions]({{< baseurl >}}/pages/reading-questions#lec2)
+{{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec2" %}}
 
 
 {{< tdclose >}}
@@ -76,7 +81,7 @@ Communal Norms
 
 [_Lawrence, et al. v. Texas_](http://www.law.cornell.edu/supct/html/02-102.ZS.html). U.S. Supreme Court, 2003.
 
-[See Reading Questions]({{< baseurl >}}/pages/reading-questions#lec3)
+{{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec3" %}}
 
 
 {{< tdclose >}}
@@ -96,7 +101,7 @@ Mill, John Stuart. "What Utilitarianism Is." Chapter 2 in _Utilitarianism_. Crea
 
 Nozick, Robert. "The Experience Machine." In _Anarchy, State, and Utopia_. Basic Books, 1977. ISBN: 9780465097203.
 
-[See Reading Questions]({{< baseurl >}}/pages/reading-questions#lec4)
+{{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec4" %}}
 
 
 {{< tdclose >}}
@@ -114,7 +119,7 @@ The Harm Principle
 
 Mill, John Stuart. "Introductory." Chapter 1 in _On Liberty_. Simon & Brown, 2012. ISBN: 9781613823736.
 
-[See Reading Questions]({{< baseurl >}}/pages/reading-questions#lec5)
+{{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec5" %}}
 
 
 {{< tdclose >}}
@@ -132,7 +137,7 @@ The Utility of Speech
 
 ———. "Of the Liberty of Thought and Discussion." Chapter 2 in _On Liberty_. Simon & Brown, 2012. ISBN: 9781613823736.
 
-[See Reading Questions]({{< baseurl >}}/pages/reading-questions#lec6)
+{{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec6" %}}
 
 
 {{< tdclose >}}
@@ -150,7 +155,7 @@ The Utility of Liberty
 
 ———. "Of Individuality, as One of the Elements of Well-being." Chapter 3 in _On Liberty_. Simon & Brown, 2012. ISBN: 9781613823736.
 
-[See Reading Questions]({{< baseurl >}}/pages/reading-questions#lec7)
+{{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec7" %}}
 
 
 {{< tdclose >}}
@@ -170,7 +175,7 @@ The Utility of Democracy
 
 ———. "Of the Extensions of the Suffrage." Chapter 8 in _Considerations on Representative Government_. CreateSpace Independent Publishing Platform, 2011. ISBN: 9781466336445.
 
-[See Reading Questions]({{< baseurl >}}/pages/reading-questions#lec8)
+{{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec8" %}}
 
 
 {{< tdclose >}}
@@ -196,7 +201,7 @@ Harris, John. "[The Survival Lottery](http://www.jstor.org/stable/3749647)." _Ph
 
 Nozick, Robert. In _Anarchy, State, and Utopia_. Basic Books, 1977, pp. 28–42, and 45–51. ISBN: 9780465097203.
 
-[See Reading Questions]({{< baseurl >}}/pages/reading-questions#lec9)
+{{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec9" %}}
 
 
 {{< tdclose >}}
@@ -214,7 +219,7 @@ Against Redistribution
 
 ———. In _Anarchy, State, and Utopia_. Basic Books, 1977, pp. 149–64, 167–74, and 235–8. ISBN: 9780465097203.
 
-[See Reading Questions]({{< baseurl >}}/pages/reading-questions#lec10)
+{{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec10" %}}
 
 
 {{< tdclose >}}
@@ -232,7 +237,7 @@ The Entitlement Theory
 
 ———. In _Anarchy, State, and Utopia_. Basic Books, 1977, pp. 150–3, and 174–82. ISBN: 9780465097203.
 
-[See Reading Questions]({{< baseurl >}}/pages/reading-questions#lec11)
+{{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec11" %}}
 
 
 {{< tdclose >}}
@@ -251,7 +256,7 @@ Justice in Acquisition
 Cohen, G. A. _Self-Ownership, Freedom, and Equality_. Cambridge University Press, 1995, pp. 112–5, 67–80, and 94–105. ISBN: 9780521477512.[  
 ](http://books.google.com/books?id=oeUQjOLNY-wC&printsec=frontcover)
 
-[See Reading Questions]({{< baseurl >}}/pages/reading-questions#lec12)
+{{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec12" %}}
 
 
 {{< tdclose >}}
@@ -271,7 +276,7 @@ Nozick, Robert. "Voluntary Exchange." In _Anarchy, State, and Utopia_. Basic Boo
 
 Cohen, G. A. "Are Disadvantaged Workers Who Take Hazardous Jobs Forced to Take Hazardous Jobs?" Sections 2–5 in _History, Labour, and Freedom: Themes from Marx_. Oxford University Press, 1989. ISBN: 9780198247791.
 
-[See Reading Questions]({{< baseurl >}}/pages/reading-questions#lec13)
+{{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec13" %}}
 
 
 {{< tdclose >}}
@@ -294,7 +299,7 @@ Friedman, Milton. "The Role of Government in Education." Chapter 6 in _Capitalis
 
 ———. "The Distribution of Income." Chapter 10 in _Capitalism and Freedom: Fortieth Anniversary Edition_. University Of Chicago Press, 2002, pp. 161–6. ISBN: 9780226264219.
 
-[See Reading Questions]({{< baseurl >}}/pages/reading-questions#lec14)
+{{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec14" %}}
 
 
 {{< tdclose >}}
@@ -318,7 +323,7 @@ Justice as Fairness
 
 Rawls, John. Selections from Sections 1–4, 11–3, 17, 24, 26, and 29. In _A Theory of Justice: Original Edition_. Belknap Press of Harvard University Press, 2005. ISBN: 9780674017726.
 
-[See Reading Questions]({{< baseurl >}}/pages/reading-questions#lec15)
+{{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec15" %}}
 
 
 {{< tdclose >}}
@@ -336,7 +341,7 @@ Markets & Moral Desert
 
 ———. Selections from Sections 43–44, and 47–48. In _A Theory of Justice: Original Edition_. Belknap Press of Harvard University Press, 2005. ISBN: 9780674017726.
 
-[See Reading Questions]({{< baseurl >}}/pages/reading-questions#lec16)
+{{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec16" %}}
 
 
 {{< tdclose >}}
@@ -356,7 +361,7 @@ Barry, Brian. "Why Equal Opportunity?" Chapter 4 in _Why Social Justice Matters_
 
 ———. "Education." Chapter 5 in _Why Social Justice Matters_. Polity Press, 2005. ISBN: 9780745629933. \[Preview with [Google Books](http://books.google.com/books?id=wwhOE1tDCOUC&pg=PA46#v=onepage)\]
 
-[See Reading Questions]({{< baseurl >}}/pages/reading-questions#lec17)
+{{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec17" %}}
 
 
 {{< tdclose >}}
@@ -376,7 +381,7 @@ Okin, Susan Moller. "Introduction: Justice and Gender." Chapter 1 in _Justice, G
 
 ———. "Justice as Fairness: For Whom?" Chapter 5 in _Justice, Gender, and the Family_. Basic Books, 1991. ISBN: 9780465037032. 
 
-[See Reading Questions]({{< baseurl >}}/pages/reading-questions#lec18)
+{{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec18" %}}
 
 
 {{< tdclose >}}
@@ -395,7 +400,7 @@ Justice & the Social Ethos
 Cohen, G. A. "The Basic Structure Objection." Chapter 3 in _Rescuing Justice and Equality_. Harvard University Press, 2008, pp. 117–43. ISBN: 9780674030763.[  
 ](http://books.google.com/books?id=mcFtrIgDoBYC&printsec=frontcover)
 
-[See Reading Questions]({{< baseurl >}}/pages/reading-questions#lec19)
+{{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec19" %}}
 
 
 {{< tdclose >}}
@@ -415,9 +420,9 @@ Money & Elections
 
 [_Opinion of Justice Stevens. Citizens United, Appellant v Federal Election Commission_](https://supreme.justia.com/cases/federal/us/558/310/cdinpart.html). U.S. Supreme Court, 2010.
 
-"[American Democracy in an Age of Rising Inequality (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](https://www.apsanet.org/portals/54/Files/Task%20Force%20Reports/taskforcereport.pdf)." Task Force On Inequality and American Democracy, American Political Science Association, 2004.
+"[American Democracy in an Age of Rising Inequality (PDF)](https://www.apsanet.org/portals/54/Files/Task%20Force%20Reports/taskforcereport.pdf)." Task Force On Inequality and American Democracy, American Political Science Association, 2004.
 
-[See Reading Questions]({{< baseurl >}}/pages/reading-questions#lec20)
+{{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec20" %}}
 
 
 {{< tdclose >}}
@@ -437,7 +442,7 @@ Rawls, John. "Brief Comments on Leisure Time." Section 53 in _Justice as Fairnes
 
 Van Parijs, Philippe. "[A Basic Income for All](http://bostonreview.net/archives/BR25.5/vanparijs.html)." _Boston Review_, October/November 2000.
 
-[See Reading Questions]({{< baseurl >}}/pages/reading-questions#lec21)
+{{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec21" %}}
 
 
 {{< tdclose >}}
@@ -455,7 +460,7 @@ Justice & Reciprocity
 
 White, Stuart. "[Social Rights and the Social Contract](http://www.jstor.org/discover/10.2307/194006?uid=3739696&uid=2129&uid=2&uid=70&uid=4&uid=3739256&sid=21103350246631)." _British Journal of Political Science_ 30, no. 3 (2000): 507–32.
 
-[See Reading Questions]({{< baseurl >}}/pages/reading-questions#lec22)
+{{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec22" %}}
 
 
 {{< tdclose >}}
@@ -473,7 +478,7 @@ Justice & the Ghetto Poor
 
 Shelby, Tommie. "[Justice, Deviance, and the Dark Ghetto](http://onlinelibrary.wiley.com/doi/10.1111/j.1088-4963.2007.00106.x/abstract)." _Philosophy and Public Affairs_ 35, no. 2 (2007): 126–60.
 
-[See Reading Questions]({{< baseurl >}}/pages/reading-questions#lec23)
+{{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec23" %}}
 
 
 {{< tdclose >}}
@@ -491,7 +496,7 @@ Justice & the Global Poor
 
 Beitz, Charles. _Political Theory and International Relations_. Princeton University Press, 1999, pp. 127–54. ISBN: 9780691009155.
 
-[See Reading Questions]({{< baseurl >}}/pages/reading-questions#lec24)
+{{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec24" %}}
 
 
 {{< tdclose >}}
@@ -509,7 +514,7 @@ Justice & Immigration
 
 Carens, Joseph H. "[Aliens and Citizens: The Case for Open Borders](http://www.jstor.org/stable/1407506)." _The Review of Politics_ 49, no. 2 (1987): 251–73.
 
-[See Reading Questions]({{< baseurl >}}/pages/reading-questions#lec25)
+{{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec25" %}}
 
 
 {{< tdclose >}}

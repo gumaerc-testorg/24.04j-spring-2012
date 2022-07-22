@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics, quizzes, and assignment
+  due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: a8a40c03-5f89-c55b-2502-6af4be954527
 ---
 
-Most lecture topics have accompanying [lecture notes]({{< baseurl >}}/pages/lecture-notes).
+Most lecture topics have accompanying {{% resource_link ae2c7261-d14a-b8d5-94f2-b322ad88a76c "lecture notes" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}

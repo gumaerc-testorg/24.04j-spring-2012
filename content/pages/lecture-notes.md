@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides lecture outlines for selected sessions of the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: ae2c7261-d14a-b8d5-94f2-b322ad88a76c
 ---
@@ -39,7 +43,7 @@ Introduction
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Classical Utilitarianism (PDF)]({{< baseurl >}}/resources/mit24_04js12_lec02)
+{{% resource_link 0948c723-02f8-67a9-fb9a-28499c01c388 "Classical Utilitarianism (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -48,7 +52,7 @@ Introduction
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Communal Norms (PDF)]({{< baseurl >}}/resources/mit24_04js12_lec03)
+{{% resource_link 0a125c3e-48e3-147d-b5e5-1d9234c79119 "Communal Norms (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +61,7 @@ Introduction
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Revisionist Utilitarianism (PDF)]({{< baseurl >}}/resources/mit24_04js12_lec04)
+{{% resource_link d7fa63da-a537-86cb-f55d-2f7473347c37 "Revisionist Utilitarianism (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +70,7 @@ Introduction
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[The Harm Principle (PDF)]({{< baseurl >}}/resources/mit24_04js12_lec05)
+{{% resource_link 072deb3b-d9f0-58dc-f675-c692b81d5577 "The Harm Principle (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,7 +79,7 @@ Introduction
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[The Utility of Speech (PDF)]({{< baseurl >}}/resources/mit24_04js12_lec06)
+{{% resource_link 836a417a-49e2-d408-168a-c57273618b33 "The Utility of Speech (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -84,7 +88,7 @@ Introduction
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[The Utility of Liberty (PDF)]({{< baseurl >}}/resources/mit24_04js12_lec07)
+{{% resource_link abeb141f-7bec-e3d1-3fb3-faf66cdd026a "The Utility of Liberty (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +97,7 @@ Introduction
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[The Utility of Democracy (PDF)]({{< baseurl >}}/resources/mit24_04js12_lec08)
+{{% resource_link 9d8ed236-6d48-6d19-fd1e-892b80f3b1eb "The Utility of Democracy (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +112,7 @@ Introduction
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Rights as Side-constraints (PDF)]({{< baseurl >}}/resources/mit24_04js12_lec09)
+{{% resource_link a2664441-2ef3-5f3e-4476-19f3829e8fda "Rights as Side-constraints (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +121,7 @@ Introduction
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Against Redistribution (PDF)]({{< baseurl >}}/resources/mit24_04js12_lec10)
+{{% resource_link 84882844-b401-ae08-fe56-be887f199575 "Against Redistribution (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +130,7 @@ Introduction
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[The Entitlement Theory (PDF)]({{< baseurl >}}/resources/mit24_04js12_lec11)
+{{% resource_link 62cf443d-ee76-0249-ce31-f7ea1b87ce6a "The Entitlement Theory (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -168,7 +172,7 @@ Is the equality of opportunity principle incoherent?
 15
 {{< tdclose >}}
 {{< tdopen >}}
-[Justice as Fairness (PDF)]({{< baseurl >}}/resources/mit24_04js12_lec15)
+{{% resource_link 73eb3b22-4202-e5d9-5b31-15873bb1d72c "Justice as Fairness (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +181,7 @@ Is the equality of opportunity principle incoherent?
 16
 {{< tdclose >}}
 {{< tdopen >}}
-[Markets & Moral Desert (PDF)]({{< baseurl >}}/resources/mit24_04js12_lec16)
+{{% resource_link d7ce1112-78ea-b67c-bb92-ce53d629532f "Markets & Moral Desert (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -195,7 +199,7 @@ Equal Opportunity & Effort
 18
 {{< tdclose >}}
 {{< tdopen >}}
-[Justice & the Family (PDF)]({{< baseurl >}}/resources/mit24_04js12_lec18)
+{{% resource_link 79bb3c3a-997e-1088-b06e-f36645c598b5 "Justice & the Family (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -204,7 +208,7 @@ Equal Opportunity & Effort
 19
 {{< tdclose >}}
 {{< tdopen >}}
-[Justice & the Social Ethos (PDF)]({{< baseurl >}}/resources/mit24_04js12_lec19)
+{{% resource_link c62d806c-b640-4b5d-ca1d-fcb08330ea24 "Justice & the Social Ethos (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -240,7 +244,7 @@ Justice & Reciprocity
 23
 {{< tdclose >}}
 {{< tdopen >}}
-[Justice & the Ghetto Poor (PDF)]({{< baseurl >}}/resources/mit24_04js12_lec23)
+{{% resource_link 7fee50f2-2143-6f62-ef74-51e0593baf1a "Justice & the Ghetto Poor (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
