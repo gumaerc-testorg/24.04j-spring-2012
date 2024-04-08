@@ -77,9 +77,9 @@ Communal Norms
 {{< tdopen >}}
 
 
-[_Bowers v. Hardwick_](http://www.law.cornell.edu/supct/html/historics/USSC_CR_0478_0186_ZS.html). U.S. Supreme Court, 1986.
+{{% resource_link "dc511f91-fd97-4809-b591-529430631dc5" "_Bowers v. Hardwick_" %}}. U.S. Supreme Court, 1986.
 
-[_Lawrence, et al. v. Texas_](http://www.law.cornell.edu/supct/html/02-102.ZS.html). U.S. Supreme Court, 2003.
+{{% resource_link "7440c119-17ce-42e0-b0b5-627e8014393f" "_Lawrence, et al. v. Texas_" %}}. U.S. Supreme Court, 2003.
 
 {{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec3" %}}
 
@@ -197,7 +197,7 @@ Rights as Side-constraints
 {{< tdopen >}}
 
 
-Harris, John. "[The Survival Lottery](http://www.jstor.org/stable/3749647)." _Philosophy_ 50, no. 191 (1975): 81–7.
+Harris, John. "{{% resource_link "dec144b1-788a-4132-9d77-53e34e339f0c" "The Survival Lottery" %}}." _Philosophy_ 50, no. 191 (1975): 81–7.
 
 Nozick, Robert. In _Anarchy, State, and Utopia_. Basic Books, 1977, pp. 28–42, and 45–51. ISBN: 9780465097203.
 
@@ -253,8 +253,7 @@ Justice in Acquisition
 {{< tdopen >}}
 
 
-Cohen, G. A. _Self-Ownership, Freedom, and Equality_. Cambridge University Press, 1995, pp. 112–5, 67–80, and 94–105. ISBN: 9780521477512.[  
-](http://books.google.com/books?id=oeUQjOLNY-wC&printsec=frontcover)
+Cohen, G. A. _Self-Ownership, Freedom, and Equality_. Cambridge University Press, 1995, pp. 112–5, 67–80, and 94–105. ISBN: 9780521477512.{{% resource_link "37736ab8-0848-4c07-a1c9-1fb2d62a1818" "   " %}}
 
 {{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec12" %}}
 
@@ -292,8 +291,7 @@ Is the equality of opportunity principle incoherent?
 {{< tdopen >}}
 
 
-Friedman, Milton. "The Role of Government in Education." Chapter 6 in _Capitalism and Freedom: Fortieth Anniversary Edition_. University Of Chicago Press, 2002, pp. 85–94. ISBN: 9780226264219.[  
-](http://books.google.com/books?id=iCRk066ybDAC&pg=PA85#v=onepage)
+Friedman, Milton. "The Role of Government in Education." Chapter 6 in _Capitalism and Freedom: Fortieth Anniversary Edition_. University Of Chicago Press, 2002, pp. 85–94. ISBN: 9780226264219.{{% resource_link "b3acfc17-1d62-4d29-a126-2eacf6f71033" "   " %}}
 
 ———. "The Alleviation of Poverty." Chapter 12 in _Capitalism and Freedom: Fortieth Anniversary Edition_. University Of Chicago Press, 2002. ISBN: 9780226264219.
 
@@ -357,9 +355,9 @@ Equal Opportunity & Effort
 {{< tdopen >}}
 
 
-Barry, Brian. "Why Equal Opportunity?" Chapter 4 in _Why Social Justice Matters_. Polity Press, 2005. ISBN: 9780745629933. \[Preview with [Google Books](http://books.google.com/books?id=wwhOE1tDCOUC&pg=PA37#v=onepage)\]
+Barry, Brian. "Why Equal Opportunity?" Chapter 4 in _Why Social Justice Matters_. Polity Press, 2005. ISBN: 9780745629933. \[Preview with {{% resource_link "70dbcdbd-7b7a-4ae8-ac7f-75dcc4c0d067" "Google Books" %}}\]
 
-———. "Education." Chapter 5 in _Why Social Justice Matters_. Polity Press, 2005. ISBN: 9780745629933. \[Preview with [Google Books](http://books.google.com/books?id=wwhOE1tDCOUC&pg=PA46#v=onepage)\]
+———. "Education." Chapter 5 in _Why Social Justice Matters_. Polity Press, 2005. ISBN: 9780745629933. \[Preview with {{% resource_link "a0573ebf-d15b-4b06-ace1-df850fd08868" "Google Books" %}}\]
 
 {{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec17" %}}
 
@@ -397,8 +395,7 @@ Justice & the Social Ethos
 {{< tdopen >}}
 
 
-Cohen, G. A. "The Basic Structure Objection." Chapter 3 in _Rescuing Justice and Equality_. Harvard University Press, 2008, pp. 117–43. ISBN: 9780674030763.[  
-](http://books.google.com/books?id=mcFtrIgDoBYC&printsec=frontcover)
+Cohen, G. A. "The Basic Structure Objection." Chapter 3 in _Rescuing Justice and Equality_. Harvard University Press, 2008, pp. 117–43. ISBN: 9780674030763.{{% resource_link "42fcf0ac-1f0d-49df-9ab8-99ac26c84981" "   " %}}
 
 {{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec19" %}}
 
@@ -416,11 +413,11 @@ Money & Elections
 {{< tdopen >}}
 
 
-[_Opinion of Justice Kennedy. Citizens United, Appellant v Federal Election Commission_](https://supreme.justia.com/cases/federal/us/558/310/opinion.html). U.S. Supreme Court, 2010.
+{{% resource_link "47636e01-a9f8-4dc7-a814-0f53846ceee8" "_Opinion of Justice Kennedy. Citizens United, Appellant v Federal Election Commission_" %}}. U.S. Supreme Court, 2010.
 
-[_Opinion of Justice Stevens. Citizens United, Appellant v Federal Election Commission_](https://supreme.justia.com/cases/federal/us/558/310/cdinpart.html). U.S. Supreme Court, 2010.
+{{% resource_link "3b391cfe-3ab7-4d06-9b63-6ed5d148e705" "_Opinion of Justice Stevens. Citizens United, Appellant v Federal Election Commission_" %}}. U.S. Supreme Court, 2010.
 
-"[American Democracy in an Age of Rising Inequality (PDF)](https://www.apsanet.org/portals/54/Files/Task%20Force%20Reports/taskforcereport.pdf)." Task Force On Inequality and American Democracy, American Political Science Association, 2004.
+"{{% resource_link "72dd5d48-a4fe-4ad9-97ab-dbbd716f9f66" "American Democracy in an Age of Rising Inequality (PDF)" %}}." Task Force On Inequality and American Democracy, American Political Science Association, 2004.
 
 {{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec20" %}}
 
@@ -440,7 +437,7 @@ Justice & Basic Income
 
 Rawls, John. "Brief Comments on Leisure Time." Section 53 in _Justice as Fairness: A Restatement_. Edited by Erin Kelly. Harvard University Press, 2001. ISBN: 9780674005112.
 
-Van Parijs, Philippe. "[A Basic Income for All](http://bostonreview.net/archives/BR25.5/vanparijs.html)." _Boston Review_, October/November 2000.
+Van Parijs, Philippe. "{{% resource_link "7a013e1d-8cf2-4d68-972b-729dd87038f4" "A Basic Income for All" %}}." _Boston Review_, October/November 2000.
 
 {{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec21" %}}
 
@@ -458,7 +455,7 @@ Justice & Reciprocity
 {{< tdopen >}}
 
 
-White, Stuart. "[Social Rights and the Social Contract](http://www.jstor.org/discover/10.2307/194006?uid=3739696&uid=2129&uid=2&uid=70&uid=4&uid=3739256&sid=21103350246631)." _British Journal of Political Science_ 30, no. 3 (2000): 507–32.
+White, Stuart. "{{% resource_link "32395e8b-f8dc-4206-93f1-0175eb8b9fdc" "Social Rights and the Social Contract" %}}." _British Journal of Political Science_ 30, no. 3 (2000): 507–32.
 
 {{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec22" %}}
 
@@ -476,7 +473,7 @@ Justice & the Ghetto Poor
 {{< tdopen >}}
 
 
-Shelby, Tommie. "[Justice, Deviance, and the Dark Ghetto](http://onlinelibrary.wiley.com/doi/10.1111/j.1088-4963.2007.00106.x/abstract)." _Philosophy and Public Affairs_ 35, no. 2 (2007): 126–60.
+Shelby, Tommie. "{{% resource_link "98198aec-5f5b-4082-a58f-8d27ae384ddc" "Justice, Deviance, and the Dark Ghetto" %}}." _Philosophy and Public Affairs_ 35, no. 2 (2007): 126–60.
 
 {{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec23" %}}
 
@@ -512,7 +509,7 @@ Justice & Immigration
 {{< tdopen >}}
 
 
-Carens, Joseph H. "[Aliens and Citizens: The Case for Open Borders](http://www.jstor.org/stable/1407506)." _The Review of Politics_ 49, no. 2 (1987): 251–73.
+Carens, Joseph H. "{{% resource_link "217f073a-58ae-4b2e-a882-2e36a08e530b" "Aliens and Citizens: The Case for Open Borders" %}}." _The Review of Politics_ 49, no. 2 (1987): 251–73.
 
 {{% resource_link 84a64a67-731d-48eb-00ac-dee4907231ff "See Reading Questions" "#lec25" %}}
 
