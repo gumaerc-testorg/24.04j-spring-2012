@@ -24,7 +24,7 @@ The purpose of the quizzes is to give you a chance to demonstrate that you under
 Paper Topics
 ------------
 
-Each of the following paper topics asks you to reconstruct and critically evaluate an argument. Therefore, you will need to be clear on what counts as an _argument_ and how one goes about _critically evaluating_ an argument. Helpful explanations can be found at [http://www.jimpryor.net/teaching/vocab/index.html](http://www.jimpryor.net/teaching/vocab/index.html).
+Each of the following paper topics asks you to reconstruct and critically evaluate an argument. Therefore, you will need to be clear on what counts as an _argument_ and how one goes about _critically evaluating_ an argument. Helpful explanations can be found at {{% resource_link "74d32bc9-d49c-4749-b3ef-f9c38cf3b2ae" "http://www.jimpryor.net/teaching/vocab/index.html" %}}.
 
 {{% resource_link a056c8c3-b20d-c19a-4b38-197c891285a9 "Paper 1 (PDF)" %}}
 
