@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding the utility of democracy.
 file: /courses/24-04j-justice-spring-2012/f0503cb258bca205dab9ba1ee960a634_MIT24_04JS12_disc08.pdf
+file_size: 360766
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

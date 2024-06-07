@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding the harm principle.
 file: /courses/24-04j-justice-spring-2012/d433ea14526fbf9f6d47df02da3d3197_MIT24_04JS12_disc05.pdf
+file_size: 436284
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

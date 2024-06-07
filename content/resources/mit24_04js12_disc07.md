@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding the utility of liberty.
 file: /courses/24-04j-justice-spring-2012/434777df81145830d72fb7adc5c74af1_MIT24_04JS12_disc07.pdf
+file_size: 355298
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
