@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding is the equality of opportunity
   principle incoherent?
 file: /courses/24-04j-justice-spring-2012/d8a775592a65039159716622c7e29df1_MIT24_04JS12_disc14.pdf
+file_size: 357005
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

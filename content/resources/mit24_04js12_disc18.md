@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding justice & the family.
 file: /courses/24-04j-justice-spring-2012/210e49cefa1af75eec3763446c25e1b5_MIT24_04JS12_disc18.pdf
+file_size: 356916
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

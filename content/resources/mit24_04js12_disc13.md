@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding justice in transfer.
 file: /courses/24-04j-justice-spring-2012/a07fc1339d41cc9c4993ee1562a40544_MIT24_04JS12_disc13.pdf
+file_size: 359984
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
