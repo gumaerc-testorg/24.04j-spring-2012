@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding equal opportunity & effort.
 file: /courses/24-04j-justice-spring-2012/8545ddc373adaa4bb7775c7d292be4db_MIT24_04JS12_disc17.pdf
+file_size: 356162
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

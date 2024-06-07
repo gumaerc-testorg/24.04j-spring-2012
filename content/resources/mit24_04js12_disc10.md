@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding against redistribution.
 file: /courses/24-04j-justice-spring-2012/7b20530b0ac4bdc36d0e1330e7cc623d_MIT24_04JS12_disc10.pdf
+file_size: 364265
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
