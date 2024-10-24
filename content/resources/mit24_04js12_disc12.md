@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding justice in acquisition.
-file: /courses/24-04j-justice-spring-2012/f2cd1c5131ef43edf15dae4be9df722b_MIT24_04JS12_disc12.pdf
+file: /ol-ocw-studio-app/courses/24-04j-justice-spring-2012/f2cd1c5131ef43edf15dae4be9df722b_MIT24_04JS12_disc12.pdf
 file_size: 359130
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding the utility of speech.
-file: /courses/24-04j-justice-spring-2012/c5976a1d5ce3dbd18783eec6bab5645a_MIT24_04JS12_disc06.pdf
+file: /ol-ocw-studio-app/courses/24-04j-justice-spring-2012/c5976a1d5ce3dbd18783eec6bab5645a_MIT24_04JS12_disc06.pdf
 file_size: 438296
 file_type: application/pdf
 learning_resource_types: []
