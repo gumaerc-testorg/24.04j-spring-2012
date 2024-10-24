@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding justice & basic income.
-file: /courses/24-04j-justice-spring-2012/02df4d08fa2bba665e96019234142141_MIT24_04JS12_disc21.pdf
+file: /ol-ocw-studio-app/courses/24-04j-justice-spring-2012/02df4d08fa2bba665e96019234142141_MIT24_04JS12_disc21.pdf
 file_size: 261374
 file_type: application/pdf
 learning_resource_types: []

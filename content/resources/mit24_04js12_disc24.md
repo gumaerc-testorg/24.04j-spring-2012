@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding justice & the global poor.
-file: /courses/24-04j-justice-spring-2012/f2bbac5604de77fa2600ec62f6f3303b_MIT24_04JS12_disc24.pdf
+file: /ol-ocw-studio-app/courses/24-04j-justice-spring-2012/f2bbac5604de77fa2600ec62f6f3303b_MIT24_04JS12_disc24.pdf
 file_size: 368469
 file_type: application/pdf
 learning_resource_types: []

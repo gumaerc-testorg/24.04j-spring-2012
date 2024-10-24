@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding the entitlement theory.
-file: /courses/24-04j-justice-spring-2012/43fe5a1e296e548cea0a51f70063f95e_MIT24_04JS12_disc11.pdf
+file: /ol-ocw-studio-app/courses/24-04j-justice-spring-2012/43fe5a1e296e548cea0a51f70063f95e_MIT24_04JS12_disc11.pdf
 file_size: 360753
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about quiz 3.
-file: /courses/24-04j-justice-spring-2012/4fe02941b424cf581985d8049283bcc8_MIT24_04JS12_quiz3.pdf
+file: /ol-ocw-studio-app/courses/24-04j-justice-spring-2012/4fe02941b424cf581985d8049283bcc8_MIT24_04JS12_quiz3.pdf
 file_size: 452204
 file_type: application/pdf
 learning_resource_types:

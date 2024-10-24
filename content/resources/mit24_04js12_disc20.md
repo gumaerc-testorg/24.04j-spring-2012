@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding money & elections.
-file: /courses/24-04j-justice-spring-2012/86c18fb7c6ca71996dc5c4035ce6e7cb_MIT24_04JS12_disc20.pdf
+file: /ol-ocw-studio-app/courses/24-04j-justice-spring-2012/86c18fb7c6ca71996dc5c4035ce6e7cb_MIT24_04JS12_disc20.pdf
 file_size: 361990
 file_type: application/pdf
 learning_resource_types: []

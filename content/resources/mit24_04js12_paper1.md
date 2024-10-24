@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about paper 1 topics.
-file: /courses/24-04j-justice-spring-2012/a056c8c3b20dc19a4b38197c891285a9_MIT24_04JS12_paper1.pdf
+file: /ol-ocw-studio-app/courses/24-04j-justice-spring-2012/a056c8c3b20dc19a4b38197c891285a9_MIT24_04JS12_paper1.pdf
 file_size: 437828
 file_type: application/pdf
 learning_resource_types:
