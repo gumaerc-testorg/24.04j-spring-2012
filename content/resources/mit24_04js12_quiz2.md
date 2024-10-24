@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about quiz 2.
-file: /courses/24-04j-justice-spring-2012/e120fda66710289805dd38016f59302c_MIT24_04JS12_quiz2.pdf
+file: /ol-ocw-studio-app/courses/24-04j-justice-spring-2012/e120fda66710289805dd38016f59302c_MIT24_04JS12_quiz2.pdf
 file_size: 370920
 file_type: application/pdf
 learning_resource_types:

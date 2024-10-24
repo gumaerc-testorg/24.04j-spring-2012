@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about justice and private life.
-file: /courses/24-04j-justice-spring-2012/b16332fe40e3b201b81b35868c54a6ee_MIT24_04JS12_Week9.pdf
+file: /ol-ocw-studio-app/courses/24-04j-justice-spring-2012/b16332fe40e3b201b81b35868c54a6ee_MIT24_04JS12_Week9.pdf
 file_size: 120002
 file_type: application/pdf
 learning_resource_types:
