@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding communal norms.
-file: /ol-ocw-studio-app/courses/24-04j-justice-spring-2012/77c397f530bb987e2e67e0b1548d3f59_MIT24_04JS12_disc03.pdf
+file: /courses/24-04j-justice-spring-2012/77c397f530bb987e2e67e0b1548d3f59_MIT24_04JS12_disc03.pdf
 file_size: 360623
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about paper 3 topic.
-file: /ol-ocw-studio-app/courses/24-04j-justice-spring-2012/e051116e206a6e7145abd3775e879b57_MIT24_04JS12_paper3.pdf
+file: /courses/24-04j-justice-spring-2012/e051116e206a6e7145abd3775e879b57_MIT24_04JS12_paper3.pdf
 file_size: 462210
 file_type: application/pdf
 learning_resource_types:

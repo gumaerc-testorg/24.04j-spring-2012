@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about nozick's negative and positive
   arguments.
-file: /ol-ocw-studio-app/courses/24-04j-justice-spring-2012/90bcb7f9eb6800fed8e4d602c251856d_MIT24_04JS12_Week6.pdf
+file: /courses/24-04j-justice-spring-2012/90bcb7f9eb6800fed8e4d602c251856d_MIT24_04JS12_Week6.pdf
 file_size: 602887
 file_type: application/pdf
 learning_resource_types:

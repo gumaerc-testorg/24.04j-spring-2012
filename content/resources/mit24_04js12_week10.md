@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about free speech.
-file: /ol-ocw-studio-app/courses/24-04j-justice-spring-2012/85632ccf0e06b2b014d8544b7299cc7c_MIT24_04JS12_Week10.pdf
+file: /courses/24-04j-justice-spring-2012/85632ccf0e06b2b014d8544b7299cc7c_MIT24_04JS12_Week10.pdf
 file_size: 96484
 file_type: application/pdf
 learning_resource_types:
