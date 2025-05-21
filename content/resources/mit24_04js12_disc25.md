@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding justice & immigration.
-file: /ol-ocw-studio-app/courses/24-04j-justice-spring-2012/4b6ee689a8038467ca53f4ad1fc99e8c_MIT24_04JS12_disc25.pdf
+file: /courses/24-04j-justice-spring-2012/4b6ee689a8038467ca53f4ad1fc99e8c_MIT24_04JS12_disc25.pdf
 file_size: 261143
 file_type: application/pdf
 learning_resource_types: []

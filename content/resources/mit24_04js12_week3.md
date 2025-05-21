@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about final paper tips.
-file: /ol-ocw-studio-app/courses/24-04j-justice-spring-2012/25d85c1091d56520951cfaf0a3147963_MIT24_04JS12_Week3.pdf
+file: /courses/24-04j-justice-spring-2012/25d85c1091d56520951cfaf0a3147963_MIT24_04JS12_Week3.pdf
 file_size: 103649
 file_type: application/pdf
 learning_resource_types:

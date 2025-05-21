@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about nozick on redistribution and
   just holdings.
-file: /ol-ocw-studio-app/courses/24-04j-justice-spring-2012/546b02d99988108287506607676ce9f7_MIT24_04JS12_Week5.pdf
+file: /courses/24-04j-justice-spring-2012/546b02d99988108287506607676ce9f7_MIT24_04JS12_Week5.pdf
 file_size: 121140
 file_type: application/pdf
 learning_resource_types:

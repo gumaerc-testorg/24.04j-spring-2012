@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about motivations for egalitarian
   liberalism/rawls' principles/veil of ignorance.
-file: /ol-ocw-studio-app/courses/24-04j-justice-spring-2012/a9a9ee8d944262bb36e42220ba20c946_MIT24_04JS12_Week7.pdf
+file: /courses/24-04j-justice-spring-2012/a9a9ee8d944262bb36e42220ba20c946_MIT24_04JS12_Week7.pdf
 file_size: 132625
 file_type: application/pdf
 learning_resource_types:

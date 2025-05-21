@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about equality of opportunity/rawls'
   difference principle.
-file: /ol-ocw-studio-app/courses/24-04j-justice-spring-2012/e8e5d2a9b96a06776a5803dc4dc8bc3e_MIT24_04JS12_Week8.pdf
+file: /courses/24-04j-justice-spring-2012/e8e5d2a9b96a06776a5803dc4dc8bc3e_MIT24_04JS12_Week8.pdf
 file_size: 126652
 file_type: application/pdf
 learning_resource_types:
