@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about nozick's objection to utilitarianism/nozick's
   positive view.
-file: /courses/24-04j-justice-spring-2012/4be2dfa32a312d36e2fba0a03a5a2418_MIT24_04JS12_Week4.pdf
+file: /ol-ocw-studio-app/courses/24-04j-justice-spring-2012/4be2dfa32a312d36e2fba0a03a5a2418_MIT24_04JS12_Week4.pdf
 file_size: 122453
 file_type: application/pdf
 learning_resource_types:

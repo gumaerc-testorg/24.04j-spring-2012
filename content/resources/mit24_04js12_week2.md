@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about assessing and reconstructing
   arguments .
-file: /courses/24-04j-justice-spring-2012/f22d6263f11f3ad47e68efa2d02427be_MIT24_04JS12_Week2.pdf
+file: /ol-ocw-studio-app/courses/24-04j-justice-spring-2012/f22d6263f11f3ad47e68efa2d02427be_MIT24_04JS12_Week2.pdf
 file_size: 165607
 file_type: application/pdf
 learning_resource_types:
